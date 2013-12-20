@@ -14,10 +14,10 @@
 	// and store them locally
 	'connections' => array(
 		'production' => array(
-			'host'      => '',
-			'username'  => '',
+			'host'      => '192.168.33.10',
+			'username'  => 'vagrant',
 			'password'  => '',
-			'key'       => '',
+			'key'       => '/Users/mamor/.vagrant.d/insecure_private_key',
 			'keyphrase' => '',
 		),
 	),
