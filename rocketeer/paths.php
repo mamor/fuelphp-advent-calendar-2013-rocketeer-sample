@@ -19,4 +19,6 @@
 	// Path to the Artisan CLI
 	'artisan'  => '',
 
+	// Path to PHPUnit
+	'phpunit' => 'fuel/vendor/bin/phpunit',
 );
