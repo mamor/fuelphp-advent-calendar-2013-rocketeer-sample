@@ -1,2 +1,7 @@
 fuel/app/logs/*/*/*
 fuel/app/cache/*/*
+fuel/vendor
+
+# PhpStorm
+.idea
+
